@@ -1,5 +1,5 @@
 # chess-with-math
-Mathematical and AI-based analysis or certain chess position for decision-making
+Mathematical and AI-based analysis of certain chess position for decision-making
 
 # Chess Math AI Analysis
 
